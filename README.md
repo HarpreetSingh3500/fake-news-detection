@@ -38,7 +38,7 @@ Follow these steps to set up and run the project locally.
 
 Clone the repository:
 
-git clone [https://github.com/your-username/fake-news-detection.git](https://github.com/your-username/fake-news-detection.git)
+git clone https://github.com/Godfather3500/fake-news-detection
 cd fake-news-detection
 
 Create and activate a virtual environment:
