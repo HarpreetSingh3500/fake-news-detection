@@ -85,7 +85,7 @@ The system follows a comprehensive machine learning pipeline:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Godfather3500/fake-news-detection.git
+   git clone https://github.com/HarpreetSingh3500/fake-news-detection.git
    cd fake-news-detection
    ```
 
@@ -289,8 +289,8 @@ The model is trained on a comprehensive news dataset containing:
 ## 👨‍💻 Author
 
 **Harpreet Singh** - *Project Developer*
-- GitHub: [@Godfather3500](https://github.com/Godfather3500)
-- Project Link: [Fake News Detection](https://github.com/Godfather3500/fake-news-detection)
+- GitHub: [@HarpreetSingh3500](https://github.com/HarpreetSingh3500)
+- Project Link: [Fake News Detection](https://github.com/HarpreetSingh3500/fake-news-detection)
 
 ## 🙏 Acknowledgments
 
